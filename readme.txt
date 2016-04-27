@@ -7,14 +7,15 @@
 \pard\pardeftab720\sl360
 
 \f0\fs24 \cf2 \cb3 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 Git 
-\f1\b \cf4 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec4 is
-\f0\b0 \cf2 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2  a version control system.\
 Git 
 \f1\b \cf4 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec4 is
+is
 \f0\b0 \cf2 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2  free software.\
+ a distributed1we version control system.\
+Git 
+\f1\b \cf4 \expnd0\expndtw0\kerning0
+is
+\f0\b0 \cf2 \expnd0\expndtw0\kerning0
+ free software.\
+\
 }
